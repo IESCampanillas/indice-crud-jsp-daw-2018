@@ -2,3 +2,4 @@
 Indice para el ejercicio "CRUD con JSP y BBDD"
 
 [Lucía Flores Padilla](https://github.com/luciaflores25/CRUD_JSP)
+[Alejandro Ruiz López](https://github.com/AleRui/CRUD_MagoAxarquia)
