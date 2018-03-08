@@ -9,3 +9,4 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * [Rafael Campos Jurado](https://github.com/rafacampjurado/CRUD_REPTILES)
 * [Alejandro Puche Velasco](https://github.com/AlejandroPuche/crud_jsp)
 * [Manuel Zambrana Jiménez](https://github.com/manuelzambrana/CRUD_JSP)
+* [Adrián Chamorro Silva](https://github.com/AdrianChSilva/CRUD-Videojuegos)
