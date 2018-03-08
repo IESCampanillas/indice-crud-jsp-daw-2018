@@ -13,3 +13,4 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * [Adrián Chamorro Silva](https://github.com/AdrianChSilva/CRUD-Videojuegos)
 * [Iván Miranda Stavenuiter](https://github.com/ivanmirandastavenuiter/CRUD)
 * [Juan Francisco Bernal Rodríguez](https://github.com/jfbernal92/CRUD)
+* [David Balsas Martín](https://github.com/davidbalsasmartin/CRUD)
