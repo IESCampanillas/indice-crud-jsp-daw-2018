@@ -25,6 +25,6 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * [Pinto Cebrián , Pablo Francisco](https://github.com/pablopinto/CrudJsp)
 * [Puche Velasco, Alejandro](https://github.com/AlejandroPuche/crud_jsp)
 * [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez/CRUD-.git)
-* [Stasiuk, Viktoriia] (https://github.com/viktoriiaStasiuk/CRUD)
+* [Stasiuk, Viktoriia](https://github.com/viktoriiaStasiuk/CRUD)
 * [Villalba Sánchez, Adrián](https://github.com/AdrianVillalbaSanchez/CRUD)
 * [Zambrana Jiménez, Manuel](https://github.com/manuelzambrana/CRUD_JSP)
