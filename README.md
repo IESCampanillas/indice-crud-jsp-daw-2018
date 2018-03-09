@@ -16,3 +16,4 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * [Juan Francisco Bernal Rodríguez](https://github.com/jfbernal92/CRUD)
 * [David Balsas Martín](https://github.com/davidbalsasmartin/CRUD)
 * [Beatriz Parejo Ramos](https://github.com/BeatrizPR/CRUD) 
+* [Gonzalo Iván Chaparro Barese](https://github.com/gonzaloivan121/CRUD_JSP_2018)
