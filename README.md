@@ -12,6 +12,7 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * [Castejón Martínez, Anabel](https://github.com/ancastm/CRUD_LIBROS)
 * [Chamorro Silva, Adrián](https://github.com/AdrianChSilva/CRUD-Videojuegos)
 * [Chaparro Barese, Gonzalo Iván](https://github.com/gonzaloivan121/CRUD_JSP_2018)
+* [De La Maza Villalba, Alejandro](https://github.com/alejndr/CRUD)
 * [Flores Padilla, Lucía - Reserva tu hotel](https://github.com/luciaflores25/CRUD_JSP)
 * [Martín Castro, Jesús](https://github.com/Jesusmc82/CrudJSP.git)
 * [Meléndez Bravo, Esther](https://github.com/esthermelendez/CRUD_JSP)
