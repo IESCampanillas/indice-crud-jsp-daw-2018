@@ -28,4 +28,4 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * [Stasiuk, Viktoriia](https://github.com/viktoriiaStasiuk/CRUD)
 * [Villalba Sánchez, Adrián](https://github.com/AdrianVillalbaSanchez/CRUD)
 * [Zambrana Jiménez, Manuel](https://github.com/manuelzambrana/CRUD_JSP)
-* [Zambrana Ruiz, Germán] (https://github.com/GermanZR98/CRUD2018v2)
+* [Zambrana Ruiz, Germán](https://github.com/GermanZR98/CRUD2018v2)
