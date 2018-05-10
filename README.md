@@ -4,7 +4,7 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 
 * [Balsas Martín, David](https://github.com/davidbalsasmartin/CRUD)
 * [Bernal Rodríguez, Juan Francisco](https://github.com/jfbernal92/CRUD)
-* Blanco Salgado, Lucía - [Huerto](https://github.com/lucia-blanco/CRUD)
+* Blanco Salgado, Lucía - [Huerto](https://github.com/lucia-blanco/CRUD/tree/v1.0)
 * [Bueno Aguilar, Ángeles](https://github.com/angelesbueno/CRUD_JSP)
 * [Burgos García, Denise - Anime ](https://github.com/Denise98/Ejercicio-CRUD)
 * [Caballero Molina, Francisco Jesús](https://github.com/fjcmolina/CRUD-con-JSP-Y-BBDD)
