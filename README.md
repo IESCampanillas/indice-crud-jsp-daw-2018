@@ -24,7 +24,7 @@ Indice para el ejercicio "CRUD con JSP y BBDD"
 * Ruiz López, Alejandro - [Tipos y Compras de Mangos](https://github.com/AleRui/CRUD_MangoAxarquia)
 * [Parejo Ramos, Beatriz](https://github.com/BeatrizPR/CRUD) 
 * [Pinto Cebrián , Pablo Francisco](https://github.com/pablopinto/CrudJsp)
-* [Puche Velasco, Alejandro](https://github.com/AlejandroPuche/crud_jsp)
+* [Puche Velasco, Alejandro](https://github.com/AlejandroPuche/CRUD-2.0)
 * [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez/CRUD-.git)
 * [Stasiuk, Viktoriia](https://github.com/viktoriiaStasiuk/CRUD)
 * [Villalba Sánchez, Adrián](https://github.com/AdrianVillalbaSanchez/CRUD)
